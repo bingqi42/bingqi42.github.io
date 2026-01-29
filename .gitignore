@@ -1,0 +1,25 @@
+# ===== Hexo build output =====
+public/
+.deploy_git/
+
+# ===== Node dependencies =====
+node_modules/
+
+# ===== Hexo runtime files =====
+db.json
+
+# ===== Logs =====
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ===== OS / Editor =====
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ===== Optional: env files =====
+.env
+.env.*
