@@ -102,4 +102,6 @@ theme: cactus
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: git@github.com:bingqi42/bingqi42.github.io.git
+  branch: gh-pages
